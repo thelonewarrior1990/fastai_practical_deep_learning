@@ -10,3 +10,6 @@ Using CUDA, developers can now harness the potential of the GPU for general purp
 
 CUDA − Compute Unified Device Architecture. It is an extension of C programming, an API model for parallel computing created by Nvidia. 
 Programs written using CUDA harness the power of GPU. Thus, increasing the computing performance.
+
+https://www.tutorialspoint.com/cuda/index.htm
+
