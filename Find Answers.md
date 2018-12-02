@@ -1,5 +1,6 @@
 I am going to make a list of questions I would need to find answers to later when there is some free time.
-#H2 1. What is CUDA
+
+## H2 1. What is CUDA
 
 CUDA is a parallel computing platform and programming model that makes using a GPU for general purpose computing simple and elegant.
 In Layman terms,
